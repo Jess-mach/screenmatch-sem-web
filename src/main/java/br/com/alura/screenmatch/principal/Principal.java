@@ -33,6 +33,7 @@ public class Principal {
             temporadas.add(dadosTemporada);
 
         }
+
         temporadas.forEach(System.out::println);
     }
 }
